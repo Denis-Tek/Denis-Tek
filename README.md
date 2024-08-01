@@ -1,6 +1,6 @@
 ## Sejam ben-vindos! 👋
 
-### Denis Pereira Raymundo 👋
+### Denis Pereira Raymundo
 
 **🎓Formação Acadêmica**
 - MBA em Gestão Empreendedora pelo [IFSUDESTE-MG](https://www.ifsudestemg.edu.br/)
