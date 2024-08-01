@@ -1,4 +1,4 @@
-## Sejam ben-vindos! 👋
+## Sejam bem-vindos! 👋
 
 ### Denis Pereira Raymundo
 
