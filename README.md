@@ -18,7 +18,7 @@
 - ⛪ Pastor Envangélico Pentecostal na [IEADU](https://maps.app.goo.gl/dJh5B1hU7CufHL447)
 - 🎵 Músico Pentecostal (🎹, 🎷, 🎸,🎤)
 
-### 🚀 Linguagens Mais Usadas
+### 🚀 Linguagens Mais Usadas aqui no GitHub
 
 ![Linguagens mais usadas por min no GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-Tek&layout=compact)
 
