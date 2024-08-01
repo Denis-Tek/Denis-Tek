@@ -1,7 +1,7 @@
 ### Denis Pereira Raymundo
 
 **🎓Formação Acadêmica**
-- MBA em Gestão Empreendedora pelo [IFSUDESTE-MG](https://www.ifsudestemg.edu.br/)
+- MBA em Gestão Empreendedora pelo [IFSUDESTE-MG](https://www.ifsudestemg.edu.br/) (Em andamento)
 - Especialista em Desenvolvimento Web/Mobile pelo [IFSUDESTE-MG](https://www.ifsudestemg.edu.br/)
 - Especialista em Gestão de Manutenção de Tecnologia da Informação pelo [UNIFAGOC](https://unifagoc.edu.br/)
 - Especialista em Teologia Pentecostal pela [FCC](https://faculdadecristadecuritiba.com.br/)
