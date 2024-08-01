@@ -1,5 +1,3 @@
-## Sejam bem-vindos! 👋
-
 ### Denis Pereira Raymundo
 
 **🎓Formação Acadêmica**
@@ -18,18 +16,25 @@
 - ⛪ Pastor Envangélico Pentecostal na [IEADU](https://maps.app.goo.gl/dJh5B1hU7CufHL447)
 - 🎵 Músico Pentecostal (🎹, 🎷, 🎸,🎤)
 
-### 🚀 Linguagens Mais Usadas aqui no GitHub
+**Habilidades**
 
-![Linguagens mais usadas por min no GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-Tek&layout=compact)
+[![Delphi](https://img.shields.io/badge/Delphi-black?style=for-the-badge&logo=Delphi&logoColor=red)](https://www.embarcadero.com/br/products/delphi)
+[![Fireibrd](https://img.shields.io/badge/Firebird-black?style=for-the-badge&logo=Firebird&logoColor=red)](https://firebirdsql.org/)
+[![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=red)](https://www.python.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://docs.github.com/)
 
-### 📊 Estatísticas no GitHub
-
-![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=Denis-Tek&show_icons=true&theme=dracula)
-
-## 📫 Como me encontrar
+**📫 Como me encontrar**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/denis-pereira-raymundo/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/denis.pereira.raymundo/)
+
+**🚀 Linguagens Mais Usadas aqui no GitHub**
+
+![Linguagens mais usadas por min no GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-Tek&layout=compact)
+
+**📊 Estatísticas no GitHub**
+
+![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=Denis-Tek&show_icons=true&theme=dracula)
 
 ![](https://komarev.com/ghpvc/?username=Denis-Tek&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true)
 
