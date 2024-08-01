@@ -26,7 +26,7 @@
 **📫 Como me encontrar**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/denis-pereira-raymundo/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/denis.pereira.raymundo/)
+[![Instagram](https://img.shields.io/badge/Instagram-black.svg?style=for-the-badge&logo=Instagram&logoColor=red)](https://www.instagram.com/denis.pereira.raymundo/)
 
 **🚀 Linguagens Mais Usadas aqui no GitHub**
 
