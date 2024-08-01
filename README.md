@@ -28,6 +28,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/denis-pereira-raymundo/)
 [![Instagram](https://img.shields.io/badge/Instagram-black.svg?style=for-the-badge&logo=Instagram&logoColor=red)](https://www.instagram.com/denis.pereira.raymundo/)
+[![Youtube](https://img.shields.io/badge/Youtube-black.svg?style=for-the-badge&logo=Youtube&logoColor=red)](https://youtube.com/@denispereiraraymundo)
 
 **🚀 Linguagens Mais Usadas aqui no GitHub**
 
