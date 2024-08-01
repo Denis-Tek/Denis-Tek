@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Denis-Tek)
+
 ## Hi there 👋
 
 <!--
