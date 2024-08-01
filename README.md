@@ -1,4 +1,4 @@
-## Sejm ben-vindos! 👋
+## Sejam ben-vindos! 👋
 
 <!--
 **Denis-Tek/Denis-Tek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
