@@ -21,6 +21,7 @@
 [![Delphi](https://img.shields.io/badge/Delphi-black?style=for-the-badge&logo=Delphi&logoColor=red)](https://www.embarcadero.com/br/products/delphi)
 [![Fireibrd](https://img.shields.io/badge/Firebird-black?style=for-the-badge&logo=Firebird&logoColor=red)](https://firebirdsql.org/)
 [![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=red)](https://www.python.org/)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=0E76A8)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://docs.github.com/)
 
 **📫 Como me encontrar**
